@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "React Calculator with Code",
+    "slug": "calculator",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": ["ios", "android"],
+    "android": {
+      "package": "com.arora.reactcalculator"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/calculator.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
