@@ -150,7 +150,7 @@ export default class App extends React.Component {
             }}
             onPress={() => {
               Linking.openURL(
-                "https://github.com/vipularora51/React_Weather_App_with_code"
+                "https://github.com/vipularora51/React-calculator-with-code"
               );
             }}
           >
